@@ -1,19 +1,43 @@
-# KaliLinux
-In this Article , 1st we need a basic computer to learn kali linux
-Here a basic recomendation for kali linux
+# Kali Linux Beginner Guide
 
-# Minimum Recommended Specs for Kali
+In this article, we’ll cover the **basic requirements** to install Kali Linux and the **essential commands** you need to start learning it effectively.
 
-> `*CPU: Dual-core 64-bit (Intel i5 or Ryzen 3 and up is better)*`
+---
 
->`*RAM: 4 GB min (8 GB+ ideal)*`
+## 🖥️ Minimum Recommended Specs for Kali
 
-> `*Storage: 20 GB min (40+ GB recommended)*`
+> `CPU: Dual-core 64-bit (Intel i5 or Ryzen 3 and up is better)`  
+> `RAM: 4 GB min (8 GB+ ideal)`  
+> `Storage: 20 GB min (40+ GB recommended)`
 
-After we have to learn basic commond for kali linuc to run it
+---
 
-*so 1st we discuss*
+## 1. Understand the File System Structure
 
-# 1. Understand the File System Structure
+Kali Linux is not like Windows. It's a powerful, command-line-based system used for security and development tasks.
 
-kali linux is not just like windows OS . it is a difficlut Commond Line Opeartig system know for their large access in program than window 
+Here are key directories and their purposes:
+
+| **Directory**       | **Purpose**                                  |
+|---------------------|----------------------------------------------|
+| `/`                 | Root of everything                           |
+| `/home/username`    | Your personal files (like C:\Users)          |
+| `/etc`              | Configuration files                          |
+| `/bin`              | Essential binaries (commands)                |
+| `/var/log`          | Log files                                    |
+| `/opt`              | Optional software                            |
+| `/tmp`              | Temporary files                              |
+| `/root`             | Admin (root) user’s home directory           |
+
+---
+
+## 2. Important Shell Commands (Memorize These)
+
+We'll divide commands into categories:
+
+### **Basic Navigation**
+```bash
+pwd           # show current directory
+ls            # list files
+cd folder/    # change directory
+cd ..         # go up one level
