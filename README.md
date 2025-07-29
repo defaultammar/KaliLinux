@@ -161,3 +161,14 @@ tail -f /var/log/syslog     # view live system logs
 ```
 This guide is for educational purposes only. Do not attempt to use these tools on any system you do not own or have explicit permission to test.
 ```
+
+
+
+***Want To Download This File Here A link***
+https://docs.google.com/document/d/16DtgcO15-lDjqIKvJftQrXjuvA77I18_XplpA1MTCiA/edit?usp=sharing
+
+
+
+
+
+**Written By Mirza Ammar Cyber Warrior**
