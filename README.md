@@ -157,6 +157,7 @@ tail -f /var/log/syslog     # view live system logs
 
 > `https://linuxzoo.net/`
 
-``` 📌 Legal Disclaimer
+# 📌 Legal Disclaimer
+```
 This guide is for educational purposes only. Do not attempt to use these tools on any system you do not own or have explicit permission to test.
 ```
